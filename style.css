@@ -1,0 +1,16 @@
+h1,h2{
+    text-align: center;
+}
+
+p{
+    font-size: 25px;
+}
+
+body {
+    background-color: antiquewhite;
+    font-family: sans-serif;
+}
+
+ol {
+    font-size: 25px;
+}
